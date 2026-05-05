@@ -1,0 +1,12 @@
+marker_id,available,selected_column,all_matching_columns,modality,domain,core
+PD1,True,PDCD1,['PDCD1'],rna,phenotypic,True
+CD39,True,ENTPD1,['ENTPD1'],rna,phenotypic,True
+TIM3,False,,[],,phenotypic,False
+LAG3,False,,[],,phenotypic,False
+CD73,False,,[],,phenotypic,False
+TOX,True,TOX,['TOX'],rna,transcriptional_program,True
+TCF1,False,,[],,transcriptional_program,False
+IL10,True,IL10_pg_ml,['IL10_pg_ml'],elisa,functional,True
+TGFB1,True,TGFB1_pg_ml,['TGFB1_pg_ml'],elisa,functional,True
+IL6,False,,[],,functional_inflammatory_context,False
+PSTAT3,True,pSTAT3_STAT3_ratio,['pSTAT3_STAT3_ratio'],western_blot,signaling,True

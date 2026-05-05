@@ -1,0 +1,4 @@
+sample_id,PDCD1,ENTPD1,TOX,IL10_pg_ml,TGFB1_pg_ml,pSTAT3_STAT3_ratio,IAI,IAI_category,score_type,reliability,coverage,core_coverage
+S1,2.3,1.5,3.2,30,120,1.2,0.628968253968254,intermediate,core,moderate,0.545,1.0
+S2,1.2,0.9,1.1,10,80,0.8,0.0,low,core,moderate,0.545,1.0
+S3,3.4,2.1,2.9,45,160,1.5,0.9682539682539684,high,core,moderate,0.545,1.0

@@ -1,0 +1,7 @@
+marker_id,selected_column,domain,modality,core,weight
+PD1,PDCD1,phenotypic,rna,True,0.19444444444444445
+CD39,ENTPD1,phenotypic,rna,True,0.19444444444444445
+IL10,IL10_pg_ml,functional,elisa,True,0.13888888888888892
+TGFB1,TGFB1_pg_ml,functional,elisa,True,0.13888888888888892
+TOX,TOX,transcriptional_program,rna,True,0.22222222222222227
+PSTAT3,pSTAT3_STAT3_ratio,signaling,western_blot,True,0.11111111111111113
